@@ -12,8 +12,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lucifer14OP&theme=black-ice)](https://git.io/streak-stats)
 
-[![Github Graphs](https://activity-graph.herokuapp.com/graph?username=Lucifer14OP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://guthub.com/Lucifer14OP)
-
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer14OP&layout=compact&theme=cobalt)](https://github.com/Lucifer14OP)
 
 # See You Later 🙃😉
