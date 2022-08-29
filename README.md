@@ -1,4 +1,8 @@
 
+<h1 align="center">Hello Coders 👋</h1>
+
+<h2 align="center"><i>My Website <a href="https://lucifer14op.github.io/">Here ✨</a></i></h2>
+
 <h2 align="center"><b> ⠐💫PREM DWIVEDI💫⠐ </b></h2>
 
 
@@ -24,7 +28,7 @@ Here are some ideas to get you started:
 
 -               👯 I’m looking to collaborate on ...
 
--                     🤔 I’m looking for help with ... MY BROTHER😉
+-                     🤔 I’m looking for help with ... MY BROTHER's😉
 
 -                            📫 How to reach me: ...
 
@@ -75,19 +79,7 @@ Lucifer
            『【Lucifer】』
 ┏━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━
                                                                        
-┣•➳➠ 🔭 I’m currently working on ...⚡PYTHON Scripts⚡
-                                                                      
-┣•➳➠ 🌱 I’m currently learning ... ⚡Telegram and Instagram bots⚡
-                                                                      
-┣•➳➠ 👯 I’m looking to collaborate on ...⚡Sof..project..scripts..⚡
-                                                                       
-┣•➳➠ 🤔 I’m looking for help with ...⚡repositories & projects⚡
-                                                                       
-┣•➳➠ 📫 How to reach me: LOL.
-                                                                      
-┣•➳➠ 😄 Pronouns: LOL
-                                                                       
-┣•➳➠ ⚡ Fun fact: ...LOOL>>>>>
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=Lucifer14OP&theme=darkhub&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
                                                                      
 ┗━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━
 [![R](https://img.shields.io/badge/Lucifer-black?style=for-the-badge&logo=telegram)](https://t.me/Stephen14OP)
@@ -104,19 +96,6 @@ Lucifer
 
      
 ========={Lucifer14OP]================
-![1641972673726](https://user-images.githubusercontent.com/94896142/158004772-840d7fc4-6e31-4d6b-a007-a53ef2e3259f.jpg)
- ![image](https://user-images.githubusercontent.com/87700009/133559934-d17c2c74-3507-43f7-8fa5-acf2a423993e.png)
- ![image](https://user-images.githubusercontent.com/87700009/133559990-894ac3fb-c7dd-4124-b9f5-8e8cb4ac936a.png)
- ![image](https://user-images.githubusercontent.com/87700009/133560780-0b124404-c06b-4588-8fd7-8a252b865338.png)
- ![image](https://user-images.githubusercontent.com/87700009/133560007-abc6fe47-3780-4236-8a7e-9bad70075499.png)
- ![image](https://user-images.githubusercontent.com/87700009/133560031-e2fa94f5-451f-4b64-a383-11b7038a29e1.png)
-![image](https://user-images.githubusercontent.com/87700009/133560082-78957753-cf91-4352-a44b-8e976b8a3f54.png)
-![image](https://user-images.githubusercontent.com/87700009/133560586-8e4e3a0d-e817-4c50-bb65-25d92d6dab13.png)
-![image](https://user-images.githubusercontent.com/87700009/133560146-ad26f1d2-5b3a-4fab-bf55-6bf089e5591b.png)
-![image](https://user-images.githubusercontent.com/87700009/133560204-5c0ce9ad-6ee9-40a6-9f53-ff3f102fc4f8.png)
-![image](https://user-images.githubusercontent.com/87700009/133560259-68b47181-534a-41cf-9e99-5c4b633a9d9d.png)
-![image](https://user-images.githubusercontent.com/87700009/133560325-11b7af67-cb0d-4b54-8667-97d22dd22c2a.png)
-![image](https://user-images.githubusercontent.com/87700009/133560500-f0e99c87-4900-435f-bbd0-4786fde28ac5.png)
 
 
 
